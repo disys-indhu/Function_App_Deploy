@@ -20,8 +20,8 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-        azure-functions-app-name: Function1
-        azure-functions-app-resource-group: NewResourceGroup
-        azure-functions-app-region: central Us
-        azure-functions-app-package: ./
+        azure-functions-app-name: NewSampleFunctionApp
+        azure-functions-app-resource-group: 457-92071333-configure-branch-policies-in-azure-re
+        azure-functions-app-region: East US
+        
 
